@@ -39,6 +39,6 @@ This project is heavily inspired by the **PyTorch Deep Learning series** by [Dan
 
 His tutorials provide a solid foundation and are highly recommended for beginners and intermediate learners.
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
